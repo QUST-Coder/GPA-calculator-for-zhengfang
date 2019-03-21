@@ -1,3 +1,3 @@
 # GPA Calculator
 
-## HOW TO USE?
+### HOW TO USE?

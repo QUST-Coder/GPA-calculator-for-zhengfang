@@ -2,7 +2,7 @@
 // @name         GPA Calculator
 // @namespace    https://imtwice.cn
 // @version      0.1
-// @description  why Zhengfang have no GPA statistics
+// @description  why does Zhengfang have no GPA statistics
 // @author       Twice
 // @match        http://jwglxt.qust.edu.cn/jwglxt/cjcx/cjcx_cxDgXscj.html?*
 // @grant        none
